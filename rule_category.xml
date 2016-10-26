@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table>
+	<ruleCategory>
+		<ruleCategoryID>1</ruleCategoryID>
+		<ruleCategory>test category</ruleCategory>
+		<ruleCategoryDescription>description for test category</ruleCategoryDescription>
+	</ruleCategory>
+</table>
