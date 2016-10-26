@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table>
+  <field_category>
+    <fieldCategoryID>3</fieldCategoryID>
+    <fieldCategory>FieldCategory 003</fieldCategory>
+    <fieldCategoryDescription>description for FieldCategory 003</fieldCategoryDescription>
+  </field_category>
+  <field_category>
+    <fieldCategoryID>1</fieldCategoryID>
+    <fieldCategory>FieldCategory 001</fieldCategory>
+    <fieldCategoryDescription>description for FieldCategory 001</fieldCategoryDescription>
+  </field_category>
+  <field_category>
+    <fieldCategoryID>2</fieldCategoryID>
+    <fieldCategory>FieldCategory 002</fieldCategory>
+    <fieldCategoryDescription>description for FieldCategory 002</fieldCategoryDescription>
+  </field_category>
+</table>
