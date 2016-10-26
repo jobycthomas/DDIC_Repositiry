@@ -15,4 +15,9 @@
     <fieldCategory>FieldCategory 002</fieldCategory>
     <fieldCategoryDescription>description for FieldCategory 002</fieldCategoryDescription>
   </field_category>
+  <field_category>
+    <fieldCategoryID>4</fieldCategoryID>
+    <fieldCategory>FieldCategory 004</fieldCategory>
+    <fieldCategoryDescription>description for FieldCategory 004</fieldCategoryDescription>
+  </field_category>
 </table>
