@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <table>
-	<ruleCategory>
-		<ruleCategoryID>1</ruleCategoryID>
-		<ruleCategory>test category</ruleCategory>
-		<ruleCategoryDescription>description for test category</ruleCategoryDescription>
-	</ruleCategory>
+  <rule_Category>
+    <ruleCategoryID>1</ruleCategoryID>
+    <ruleCategory>test category 001</ruleCategory>
+    <ruleCategoryDescription>description for test category001</ruleCategoryDescription>
+  </rule_Category>
+  <rule_Category>
+    <ruleCategoryID>2</ruleCategoryID>
+    <ruleCategory>test category 002</ruleCategory>
+    <ruleCategoryDescription>description for test category 002</ruleCategoryDescription>
+  </rule_Category>
 </table>
